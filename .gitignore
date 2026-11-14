@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+checkpoints/
+prepared_dataset/
+A. Segmentation/
+*.pt
+*.pth
+*.tif
+prediction_overlay.png
+.DS_Store
+*.zip
